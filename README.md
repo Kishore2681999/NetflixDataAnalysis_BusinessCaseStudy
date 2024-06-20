@@ -82,7 +82,7 @@ Welcome to the Netflix Data Exploration business case. This project aims to anal
 2. **Optimize Release Timing:** Release new content on optimal weekdays (Tuesday to Thursday) and in late winter to early spring.
 3. **Invest in Popular Talent:** Collaborate with frequently appearing actors and directors to leverage their popularity.
 4. **Diversify Genres:** Produce more content in popular genres like Drama, Comedy, and Action.
-5. **Timely Content Addition:** Add new movies to Netflix within 180-300 days of their release.
+5. **Timely Content Addition:** Add new movies to Netflix within 110-140 days of their release.
 
 ## **Conclusion:**
 
